@@ -1,3 +1,5 @@
+# Trabalho Jogo da Forca em Python(PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO EM PYTHON)
+
 import random
 
 def escolher_palavra():
